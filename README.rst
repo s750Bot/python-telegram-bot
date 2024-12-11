@@ -15,7 +15,7 @@
    :target: https://core.telegram.org/bots/api-changelog
    :alt: Supported Bot API version
 
-.. image:: https://img.shields.io/pypi/dm/python-telegram-bot
+.. image:: https://img.shields.io/pypi/dm/python-te quequick CVram-bot
    :target: https://pypistats.org/packages/python-telegram-bot
    :alt: PyPi Package Monthly Download
 
